@@ -1,7 +1,7 @@
 {
-  LauncherVersion : 1.0.0,
-  ClientVersion : 1.0.0,
-  LauncherCDN : "",
-  ClientCDN: "",
-  Hash: ""
+  "LauncherVersion" : "1.0.0",
+  "ClientVersion" : "1.0.0",
+  "LauncherCDN" : "",
+  "ClientCDN": "",
+  "Hash": ""
 }
